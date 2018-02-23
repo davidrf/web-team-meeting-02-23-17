@@ -1,0 +1,27 @@
+.Count {
+  border: 1px solid black;
+  border-radius: 4px;
+  margin: 0 20px;
+  padding: 10px;
+}
+
+.Count h1 {
+  margin: 0 0 5px;
+}
+
+.Count .reset,
+.Count .start,
+.Count .pause {
+  border-radius: 5px;
+  padding: 10px;
+  margin: 5px;
+}
+
+.Count .reset,
+.Count .start {
+  background-color: pink;
+}
+
+.Count .pause {
+  background-color: yellow;
+}
